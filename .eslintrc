@@ -19,6 +19,7 @@
     }
   },
   "rules": {
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "import/resolver": "eslint-import-resolver-babel-module"
   }
 }
